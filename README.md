@@ -32,12 +32,15 @@ pip install pillow
 ```bash
 rock-paper-scissors-gui/
 ├── rock_paper_scissors_gui.py         # Main game script
-├──assets
+├── assets
   ├── default.jpg                        # Default image for player panels
   ├── rock.jpg                           # Rock choice image
   ├── paper.jpg                          # Paper choice image
   ├── scissors.jpg                       # Scissor choice image
   ├── bigger+logo.jpg                    # Decorative banner/logo image
+├── game_UI
+  ├── cmd_output.png                        # output on command prompt
+  ├── game_UI.png
 └── README.md                          # This file
 ```
 ### Run the Game
