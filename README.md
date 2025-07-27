@@ -25,7 +25,9 @@ Make sure Python and the Pillow library are installed:
 ```bash
 pip install pillow
 ```
+
 ###  Project Structure
+```bash
 rock-paper-scissors-gui/
 ├── rock_paper_scissors_gui.py         # Main game script
 ├── default.jpg                        # Default image for player panels
@@ -34,3 +36,4 @@ rock-paper-scissors-gui/
 ├── scissors.jpg                       # Scissor choice image
 ├── bigger+logo.jpg                    # Decorative banner/logo image
 └── README.md                          # This file
+```
