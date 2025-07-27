@@ -40,3 +40,8 @@ rock-paper-scissors-gui/
   ├── bigger+logo.jpg                    # Decorative banner/logo image
 └── README.md                          # This file
 ```
+### Run the Game
+Use the following command to start the game:
+```bash
+python rock_paper_scissors_gui.py
+```
