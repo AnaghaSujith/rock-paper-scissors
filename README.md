@@ -12,7 +12,7 @@ A fun two-player **Rock-Paper-Scissors** game built using **Python Tkinter** for
 
 ##  Preview
 
-<img width="660" height="70" alt="image" src="https://github.com/user-attachments/assets/6973aa69-acae-4c8d-9fd9-32a343964013" />
+<img width="660" height="90" alt="image" src="https://github.com/user-attachments/assets/6973aa69-acae-4c8d-9fd9-32a343964013" />
 <img width="560" height="460" alt="image" src="https://github.com/user-attachments/assets/e44766e0-277f-4eaa-9f96-703b293cd51d" />
 
 
